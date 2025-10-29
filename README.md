@@ -48,5 +48,4 @@ This dataset is released under the [MIT License](https://opensource.org/licenses
 ## 5. Contact  
 
 For questions or suggestions, please contact:  
-- Email: [your-email@example.com]  
-- GitHub: [your-github-username]
+- Email: sunminjie01@163.com
