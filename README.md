@@ -1,4 +1,4 @@
-[图5 不同类型彩钢板建筑标注典型示例.tif](https://github.com/user-attachments/files/23248833/5.tif)# E-GCS-Dataset: Enhanced Generic Color Steel Dataset for Remote Sensing  
+E-GCS-Dataset: Enhanced Generic Color Steel Dataset for Remote Sensing  
 
 The **E-GCS Dataset** (Enhanced Generic Color Steel Dataset) is a large-scale, multi-scenario remote sensing dataset designed specifically for the identification and analysis of color steel buildings. It provides labeled samples to support research in fields such as remote sensing image processing, semantic segmentation, and urban spatial analysis.  
 
@@ -11,7 +11,6 @@ The **E-GCS Dataset** (Enhanced Generic Color Steel Dataset) is a large-scale, m
   - **Scene Types**: Includes typical scenarios with color steel structures, such as industrial parks, commercial buildings, and residential areas.  
   - **Color Categories**: Focuses on three main types of color steel: blue, red, and white.  
 - **Data Format**: High-resolution remote sensing images (in `.tif` format) and pixel-level semantic label masks (in `.png` format).
-[图 不同类型彩钢板建筑标注典型示例.tif](https://github.com/user-attachments/files/23248835/5.tif)
 
 
 ## 2. Dataset Structure  
